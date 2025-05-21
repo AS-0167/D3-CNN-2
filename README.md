@@ -61,7 +61,7 @@ self.layers = [
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/D3-CNN.git
+git clone https://github.com/AS-0167/D3-CNN.git
 cd D3-CNN
 ```
 
